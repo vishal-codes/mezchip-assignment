@@ -15,7 +15,7 @@ If you haven't then [this article](https://git-scm.com/book/en/v2/Getting-Starte
 
 Now follow the below mentioned steps to get the website running on your local system.
 
-1. Fork this repository by clicking on the fork button on the top of this page, this will create a copy of this repository in your account.
+1. Fork this repository by clicking on the `Fork` button on the top of this page, this will create a copy of this repository in your account.
 2. Open the system terminal in your choice of directory and clone your forked version by entering ` git clone "https://github.com/YOUR_GITHUB_UserName/mezchip-assignment.git"`
 3. Change the directory from present to the project directory by entering ` cd mezchip-assignment/`
 4. Install all dependencies by entering `npm i`
