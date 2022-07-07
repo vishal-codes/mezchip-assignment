@@ -1,0 +1,44 @@
+.customBoxShadow {
+    box-shadow: 0 2px 40px 0 rgba(0, 0, 0, 0.09);
+}
+
+.fontSize7 {
+    font-size: 0.7rem;
+}
+
+.fontSize8 {
+    font-size: 0.8rem;
+}
+
+.counter {
+    color: #adadad;
+    border: 1px solid #adadad;
+    width: 50%;
+    border-radius: 50px;
+    font-size: 0.7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.promoDiv {
+    background-color: #f5f5f5;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 30px;
+    margin-bottom: 30px;
+}
+
+.marginBottom-7 {
+    margin-bottom: 7px;
+}
+
+.orderButton {
+    background-color: #ea1d63;
+    width: inherit;
+    border: none;
+    color: #ffffff;
+    padding: 12px;
+    border-radius: 5px;
+}

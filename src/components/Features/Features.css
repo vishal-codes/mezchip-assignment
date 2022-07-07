@@ -1,0 +1,21 @@
+.featureDiv {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    justify-content: center;
+    border: 1px solid #adadad;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #adadad;
+    user-select: none;
+}
+
+.featureDiv:hover {
+    transform: scale(1.1);
+    transition: 1s;
+    border: 1px solid #ea1d63;
+}
+
+.featureDiv:hover .title {
+    color: #ea1d63;
+}
