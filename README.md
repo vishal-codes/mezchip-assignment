@@ -4,8 +4,6 @@ Technologies used - Reactjs, Bootstrap, Netlify
 
 Link of assigned task - https://drive.google.com/file/d/1r8CGi5yet3PoADHqxMa70Y6MIFpFnww8/view?usp=sharing
 
-The website is deployed on Netlify, hence you can access it on - https://mezchip-assignment.netlify.app/
-
 <br>
 
 ### Setting up project locally
